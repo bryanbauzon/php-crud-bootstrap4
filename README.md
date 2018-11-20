@@ -4,10 +4,13 @@ Description: This project is intended for beginner that wants to learn a basic C
 
 Installation:
 XAMPP
-  For Mac Users
+ 
+ For Mac Users
      1. Download XAMPP for Mac OSX - Be sure to select the proper version of PHP. For Webucator classes, any version after 5 will be fine.
      2. Open the downloaded file (the DMG-Image).
      3. Drag and drop the XAMPP folder into your Applications folder.
+     
+     
   For Windows Users
      Please refer to this link: https://pureinfotech.com/install-xampp-windows-10/
      
