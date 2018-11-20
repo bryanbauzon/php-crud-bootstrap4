@@ -1,6 +1,6 @@
 Title: PHP-CRUD-BOOTSTAP4
 
-Description: This project is intended for beginner that wants to learn a basic CRUD(Create Read Update and Delete) using pure PHP as server-side. It also include bootstrap 4 which is the latest version of bootstrap. Please refer to the documentation of boostrap for more deteiled information.
+Description: This project is intended for beginner that wants to learn a basic CRUD(Create Read Update and Delete) using pure PHP as server-side. It also include bootstrap 4 which is the latest version of bootstrap. Please refer to the documentation of boostrap for more detailed information.
 
 Installation:
 XAMPP
