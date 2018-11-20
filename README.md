@@ -26,6 +26,4 @@ Author:
 
    Max Bryan C. Bauzon
    
-   the sql file named movie.sql is located in database folder.
-  Search on how to import database file to the phpMyadmin and that's it!
     
